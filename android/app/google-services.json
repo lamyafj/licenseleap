@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875430247155",
+    "project_id": "licenseleap",
+    "storage_bucket": "licenseleap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875430247155:android:9ad6c3a0fcf71016cfd586",
+        "android_client_info": {
+          "package_name": "com.example.licenseleap1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVUsZCXSWHFYj4h_jKaLQyyucC3-gueo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875430247155:android:d6ca94aa6c9e7340cfd586",
+        "android_client_info": {
+          "package_name": "com.licenseleap.licenseleap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVUsZCXSWHFYj4h_jKaLQyyucC3-gueo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
